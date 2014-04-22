@@ -1,4 +1,6 @@
 2048Versus
 ==========
 
-Dump your ia code and fight against other ias
+This is a TypeScript implementation of a 2048 game simulator.
+
+Dump your js ia code and fight against other ias
